@@ -1,3 +1,7 @@
 echo "OI, TUDO BEM ?"
 echo "MODIFICANDO"
+<<<<<<< HEAD
 echo "MODIFICAÇÃO DA ANA"
+=======
+echo "OUTRA MODIFICAÇÃO"
+>>>>>>> 3ebccaf23f88d147fb187468dd229dfbb06a0d72
