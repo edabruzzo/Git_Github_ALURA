@@ -1,0 +1,2 @@
+zip backup_LINUX_ALURA.zip -r ~/LINUX_ALURA/
+echo "Backup realizado com sucesso"
