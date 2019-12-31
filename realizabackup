@@ -1,2 +1,3 @@
-zip backup_LINUX_ALURA.zip -r ~/LINUX_ALURA/
+#zip backup_LINUX_ALURA.zip -r ~/LINUX_ALURA/
 echo "Backup realizado com sucesso"
+echo "Este arquivo realiza backup da pasta LINUX_ALURA"
